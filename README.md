@@ -2,25 +2,11 @@
 <hr>
 <h1 align="center">Olá, sou Luan Ferreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full +Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things¢er=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full +Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things¢er=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Sou Luan de Ponta Grossa, Paraná.Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias e espalhar conhecimento e positividade.</h4>
+<h4 align="center">Sou Luan Ferreira de Ponta Grossa, Paraná. Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias e espalhar conhecimento e positividade.</h4>
 <br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
-##  🙋‍♀️ Vamos nos conectar
-<p align="center">
- <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/ ></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></ a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></ a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt ="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt ="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></ a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube" /></a>
-	
-</p>
-
 ## 👨‍💻 &nbsp;Talking to Computers Using :
 
 ![ JavaScript ](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
